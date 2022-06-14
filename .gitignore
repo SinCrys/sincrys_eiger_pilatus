@@ -4,3 +4,4 @@
 *.abs
 *._ls
 details.txt
+.ipynb_checkpoints/
