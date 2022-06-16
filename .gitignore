@@ -5,3 +5,5 @@
 *._ls
 details.txt
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
