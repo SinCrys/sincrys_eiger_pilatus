@@ -3,7 +3,7 @@
 *.raw
 *.abs
 *._ls
+*.pyc
 details.txt
 .ipynb_checkpoints/
 __pycache__/
-*.pyc
